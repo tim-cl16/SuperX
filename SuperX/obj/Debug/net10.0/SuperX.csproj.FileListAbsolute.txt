@@ -1,0 +1,14 @@
+/home/tim.cl16/Documents/app/SuperX/SuperX/bin/Debug/net10.0/SuperX
+/home/tim.cl16/Documents/app/SuperX/SuperX/bin/Debug/net10.0/SuperX.deps.json
+/home/tim.cl16/Documents/app/SuperX/SuperX/bin/Debug/net10.0/SuperX.runtimeconfig.json
+/home/tim.cl16/Documents/app/SuperX/SuperX/bin/Debug/net10.0/SuperX.dll
+/home/tim.cl16/Documents/app/SuperX/SuperX/bin/Debug/net10.0/SuperX.pdb
+/home/tim.cl16/Documents/app/SuperX/SuperX/obj/Debug/net10.0/SuperX.GeneratedMSBuildEditorConfig.editorconfig
+/home/tim.cl16/Documents/app/SuperX/SuperX/obj/Debug/net10.0/SuperX.AssemblyInfoInputs.cache
+/home/tim.cl16/Documents/app/SuperX/SuperX/obj/Debug/net10.0/SuperX.AssemblyInfo.cs
+/home/tim.cl16/Documents/app/SuperX/SuperX/obj/Debug/net10.0/SuperX.csproj.CoreCompileInputs.cache
+/home/tim.cl16/Documents/app/SuperX/SuperX/obj/Debug/net10.0/SuperX.dll
+/home/tim.cl16/Documents/app/SuperX/SuperX/obj/Debug/net10.0/refint/SuperX.dll
+/home/tim.cl16/Documents/app/SuperX/SuperX/obj/Debug/net10.0/SuperX.pdb
+/home/tim.cl16/Documents/app/SuperX/SuperX/obj/Debug/net10.0/SuperX.genruntimeconfig.cache
+/home/tim.cl16/Documents/app/SuperX/SuperX/obj/Debug/net10.0/ref/SuperX.dll
